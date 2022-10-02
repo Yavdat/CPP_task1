@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ControlSystem>
+    <ConfigDescription/>
+    <Debug>
+        <ConsoleLogLevel>Info</ConsoleLogLevel>
+        <FileLogLevel>Debug</FileLogLevel>
+    </Debug>
+    <Ports>
+        <Port ID="0">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegoxtiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="1">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="2">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="3">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="4">
+            <Up>On</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="5">
+            <Up>On</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="6">
+            <Up>On</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="7">
+            <Up>On</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="8">
+            <Up>On</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="9">
+            <Up>On</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="10">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="11">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="12">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="13">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="14">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="15">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="16">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="17">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="18">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="19">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="20">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="21">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="22">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="23">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="24">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="25">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="26">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="27">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="28">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="29">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="30">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+        <Port ID="31">
+            <Up>Off</Up>
+            <AutoNegotiationEnabled>Off</AutoNegotiationEnabled>
+            <AllowedSpeed_10M>Off</AllowedSpeed_10M>
+            <AllowedSpeed_100M>Off</AllowedSpeed_100M>
+            <AllowedSpeed_1G>Off</AllowedSpeed_1G>
+            <AllowedSpeed_10G>Off</AllowedSpeed_10G>
+        </Port>
+    </Ports>
+    <Vlans>
+        <vlan ID="1">
+            <Name>Generic_VLAN</Name>
+            <VID>1</VID>
+            <State>on</State>
+            <Routed>off</Routed>
+            <TosEnabled>off</TosEnabled>
+            <TosValue>0</TosValue>
+            <MacAddressValue>d4:4c:a7:f6:0b:7f</MacAddressValue>
+            <StpMode>rstp</StpMode>
+            <ports>
+                <port ID="0">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="1">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="2">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="3">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="4">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="5">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="6">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="7">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="8">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="9">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="10">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="11">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="12">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="13">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="14">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="15">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="16">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="17">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="18">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="19">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="20">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="21">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="22">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="23">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="24">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="25">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="26">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="27">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="28">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="29">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="30">
+                    <Tag>off</Tag>
+                </port>
+                <port ID="31">
+                    <Tag>off</Tag>
+                </port>
+            </ports>
+        </vlan>
+        <defVlans>
+            <port ID="0">
+                <vlan>1</vlan>
+            </port>
+            <port ID="1">
+                <vlan>1</vlan>
+            </port>
+            <port ID="2">
+                <vlan>1</vlan>
+            </port>
+            <port ID="3">
+                <vlan>1</vlan>
+            </port>
+            <port ID="4">
+                <vlan>1</vlan>
+            </port>
+            <port ID="5">
+                <vlan>1</vlan>
+            </port>
+            <port ID="6">
+                <vlan>1</vlan>
+            </port>
+            <port ID="7">
+                <vlan>1</vlan>
+            </port>
+            <port ID="8">
+                <vlan>1</vlan>
+            </port>
+            <port ID="9">
+                <vlan>1</vlan>
+            </port>
+            <port ID="10">
+                <vlan>1</vlan>
+            </port>
+            <port ID="11">
+                <vlan>1</vlan>
+            </port>
+            <port ID="12">
+                <vlan>1</vlan>
+            </port>
+            <port ID="13">
+                <vlan>1</vlan>
+            </port>
+            <port ID="14">
+                <vlan>1</vlan>
+            </port>
+            <port ID="15">
+                <vlan>1</vlan>
+            </port>
+            <port ID="16">
+                <vlan>1</vlan>
+            </port>
+            <port ID="17">
+                <vlan>1</vlan>
+            </port>
+            <port ID="18">
+                <vlan>1</vlan>
+            </port>
+            <port ID="19">
+                <vlan>1</vlan>
+            </port>
+            <port ID="20">
+                <vlan>1</vlan>
+            </port>
+            <port ID="21">
+                <vlan>1</vlan>
+            </port>
+            <port ID="22">
+                <vlan>1</vlan>
+            </port>
+            <port ID="23">
+                <vlan>1</vlan>
+            </port>
+            <port ID="24">
+                <vlan>1</vlan>
+            </port>
+            <port ID="25">
+                <vlan>1</vlan>
+            </port>
+            <port ID="26">
+                <vlan>1</vlan>
+            </port>
+            <port ID="27">
+                <vlan>1</vlan>
+            </port>
+            <port ID="28">
+                <vlan>1</vlan>
+            </port>
+            <port ID="29">
+                <vlan>1</vlan>
+            </port>
+            <port ID="30">
+                <vlan>1</vlan>
+            </port>
+            <port ID="31">
+                <vlan>1</vlan>
+            </port>
+        </defVlans>
+    </Vlans>
+    <Fdb>
+        <Learning>on</Learning>
+        <Flood>on</Flood>
+        <EntriesDeletion>on</EntriesDeletion>
+        <AgeingTimer>180</AgeingTimer>
+        <fdbTable/>
+    </Fdb>
+    <stp>
+        <vlan ID="1">
+            <HelloTime>2</HelloTime>
+            <AgeingTime>300</AgeingTime>
+            <ForwardDelay>15</ForwardDelay>
+            <MaxAge>20</MaxAge>
+            <Priority>8</Priority>
+            <ports>
+                <port ID="0">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="1">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="2">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="3">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="4">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="5">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="6">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="7">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="8">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="9">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="10">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="11">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="12">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="13">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="14">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="15">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="16">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="17">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="18">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="19">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="20">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="21">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="22">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="23">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="24">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="25">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="26">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="27">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="28">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="29">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="30">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+                <port ID="31">
+                    <PathCost>2000000</PathCost>
+                    <Priority>8</Priority>
+                </port>
+            </ports>
+        </vlan>
+    </stp>
+    <System>
+        <Name>Potok-122</Name>
+        <Location>unknown</Location>
+        <Contact>unknown</Contact>
+        <DiskSizeCheckingPeriod>10</DiskSizeCheckingPeriod>
+        <Service>
+            <ntp>
+                <up>off</up>
+                <servers/>
+            </ntp>
+            <snmp>on</snmp>
+            <ssh>on</ssh>
+            <web>on</web>
+        </Service>
+        <ControlPortSettings>
+            <Up>1</Up>
+            <AutonegotiationEnabled>true</AutonegotiationEnabled>
+            <FixedFullDuplexEnabled>true</FixedFullDuplexEnabled>
+            <FixedSpeed>100</FixedSpeed>
+        </ControlPortSettings>
+    </System>
+    <ClientServerPort>0</ClientServerPort>
+    <ClientInactivityPeriod>10</ClientInactivityPeriod>
+    <CheckingPeriod>0</CheckingPeriod>
+</ControlSystem>
