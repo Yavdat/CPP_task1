@@ -4,7 +4,7 @@
 	из корневого узда <Vlans> вывести список значений Vlan по умолчания для данных портов (узел <defVlans>).
 	
 
-
+#установка boost для парсинга
 sudo apt install libboost-all-dev
 sudo apt install aptitude
 aptitude search boost
